@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+.flag{
+    height: 550px;
+    width: 550px;
+    /* background-color: blanchedalmond; */
+    justify-content: center;
+    align-items: center;
+    /* display: flex; */
+    /* border: 3px solid black; */
+}
+.safforn{
+    height: 200px;
+    background-color: #FF9933;
+}
+.white{
+    height: 196px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.green{
+    height: 196px;
+    background-color: #046A38;
+}
+.chakra{
+    height: 200px;
+    width: 200px;
+    /* border: 2px solid navy; */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    box-sizing: border-box;
+    /* object-fit: contain; */
+}
+.chakra img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+ 
+  
